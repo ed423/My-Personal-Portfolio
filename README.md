@@ -1,1 +1,2 @@
-# personal-portfolio-website
+# My Portfolio Website
+These are the files used to create my personal portfolio website.
