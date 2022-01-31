@@ -55,12 +55,16 @@ body {
 }
 
 /* Selector for the logo */
-.navbar .logo {
+.logo {
     width: 60px;
     margin: -10px;
     margin-left: 5px;
-    padding: 0px;
     background-color: #0391b4;
+}
+
+/* Selector for the a box that allows the logo to be clickable */
+.navbar a {
+    background-color: #0391b4
 }
 
 /* Selector for the class that contains the list in the heading */
@@ -105,14 +109,6 @@ body {
     from { width: 0 }
     to { width: 100% }
 }
-
-/* Name sliding in from top animation */
-/* @keyframes sliding-name {
-    0% { margin-top: -300px; }
-    33% { margin-top: -200px; }
-    66% { margin-top: -100px; }
-    100% { margin-top: 0px; }
-} */
 
 
 
